@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trailokya-Taye
-- 👀 I’m interested in Coding in General.
+- 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Full Stack Web Development through the Odin Project.
 
 
